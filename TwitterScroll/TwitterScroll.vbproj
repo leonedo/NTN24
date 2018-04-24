@@ -73,10 +73,11 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>FDD4DE6E7E26BCB67DD7F91574BBD8AF7C0B726D</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>B7B6965C831F2D73956E88476EEEAE3623FE4370</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>TwitterScroll_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
